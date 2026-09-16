@@ -1,0 +1,7 @@
+[2026-09-16T08:40:14Z] === AST ITERATION 1 START | repo=json-iterator/go sha=024077e9 ===
+[2026-09-16T08:40:14Z] [iter=1] PHASE START: ast repo=json-iterator/go sha=024077e9
+[2026-09-16T08:40:14Z] [iter=1] Building AST aggregate chunks
+[2026-09-16T08:41:19Z] [iter=1] AST chunks built count=1 triples=747006
+[2026-09-16T08:41:19Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/024077e996b048517130b21ea6bf12aa23055d3d/.complete
+[2026-09-16T08:41:19Z] [iter=1] PHASE END: ast elapsed_s=65 elapsed_min=1.1
+[2026-09-16T08:41:19Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
